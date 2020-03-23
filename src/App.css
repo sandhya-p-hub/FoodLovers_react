@@ -1,0 +1,86 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.navbar {
+  margin-bottom: 30px;
+}
+.App-link {
+  color: #09d3ac;
+}
+
+#store {
+  margin-left: 168px;
+}
+
+#food {
+  margin-left: 17px;
+}
+
+#living {
+  margin-left: 14px;
+}
+
+#community {
+  margin-left: 16px;
+}
+#login {
+  margin-left: 233px;
+  /* background: #6c757d9c; */
+  color: #1e7e34;
+  font-weight: bold;
+}
+
+#username {
+  margin-left: 147px;
+  /* background: #6c757d9c; */
+  color: black;
+  font-weight: bold;
+}
+
+#logout {
+  margin-left: 12px;
+  /* background: #bd2130; */
+  color: #a8402c;
+  font-weight: bold;
+}
+#foodlovers {
+  margin-left: 105px;
+
+  vertical-align: middle;
+  border-style: none;
+  width: 124px;
+  height: 42px;
+}
+#register {
+  margin-left: 12px;
+  /* background: #6c757d9c; */
+  color: blue;
+  font-weight: bold;
+}
+.list-group-item:first-child {
+  background-color: #c1c5c8;
+  font-weight: bold;
+}
+#navBarid {
+  background: #6c757d6b !important;
+}
+
+#recipe {
+  margin-left: 18px;
+}
